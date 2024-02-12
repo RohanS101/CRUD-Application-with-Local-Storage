@@ -1,0 +1,23 @@
+body{
+    background: #1d2630;
+}
+
+*{
+    color: #fff;
+}
+
+#Update{
+    display: none;
+}
+
+.form-contol{
+    color: black;
+}
+
+.nm{
+    margin-left: 16px;
+}
+
+.ag{
+    margin-left: 10px;
+}
